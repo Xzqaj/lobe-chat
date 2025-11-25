@@ -2184,7 +2184,7 @@
     "description": "Kimi K2 Instruct, mô hình suy luận chính thức của Kimi, hỗ trợ ngữ cảnh dài, mã nguồn, hỏi đáp và nhiều tình huống khác."
   },
   "kimi-k2-thinking": {
-    "description": "Mô hình tư duy dài K2, hỗ trợ ngữ cảnh 256k, hỗ trợ gọi công cụ nhiều bước và tư duy, giỏi giải quyết các vấn đề phức tạp hơn."
+    "description": "Mô hình kimi-k2-thinking là một mô hình tư duy do Moonshot phát triển, sở hữu khả năng đại lý tổng quát và suy luận logic. Nó nổi bật với khả năng suy luận sâu và có thể sử dụng công cụ qua nhiều bước để hỗ trợ giải quyết các vấn đề phức tạp."
   },
   "kimi-k2-thinking-turbo": {
     "description": "Phiên bản tốc độ cao của mô hình tư duy dài K2, hỗ trợ ngữ cảnh 256k, giỏi suy luận sâu, tốc độ đầu ra đạt 60-100 tokens mỗi giây."

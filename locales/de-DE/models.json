@@ -2184,7 +2184,7 @@
     "description": "Kimi K2 Instruct, das offizielle Inferenzmodell von Kimi mit Unterstützung für Langkontext, Code, QA und mehr."
   },
   "kimi-k2-thinking": {
-    "description": "K2 ist ein Langzeit-Denkmodell mit Unterstützung für 256k Kontext, mehrstufige Tool-Nutzung und komplexe Problemlösung."
+    "description": "Das kimi-k2-thinking-Modell ist ein Denkmodell von Moonshot AI mit allgemeinen agentischen Fähigkeiten und ausgeprägter Schlussfolgerungskompetenz. Es zeichnet sich durch tiefgehende logische Analysen aus und kann durch mehrstufige Werkzeugnutzung bei der Lösung verschiedenster Probleme unterstützen."
   },
   "kimi-k2-thinking-turbo": {
     "description": "Turbo-Version des K2 Langzeit-Denkmodells mit 256k Kontext, spezialisiert auf tiefgreifende Schlussfolgerung und einer Ausgabegeschwindigkeit von 60–100 Tokens pro Sekunde."

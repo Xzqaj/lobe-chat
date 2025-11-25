@@ -2184,7 +2184,7 @@
     "description": "Kimi K2 Instruct, het officiële redeneermodel van Kimi, ondersteunt lange context, code, Q&A en meer."
   },
   "kimi-k2-thinking": {
-    "description": "K2 Thinking-model met lange context, ondersteunt 256k context, meervoudige toolaanroepen en denkstappen, en blinkt uit in het oplossen van complexe problemen."
+    "description": "Het kimi-k2-thinking-model is een denkmodel aangeboden door Moonshot AI met algemene agentische capaciteiten en redeneervermogen. Het blinkt uit in diepgaande redenering en kan via meervoudige hulpmiddeloproepen worden ingezet om allerlei complexe problemen op te lossen."
   },
   "kimi-k2-thinking-turbo": {
     "description": "Snelle versie van het K2 Thinking-model, ondersteunt 256k context, geoptimaliseerd voor diepgaande redenering met een uitvoersnelheid van 60-100 tokens per seconde."

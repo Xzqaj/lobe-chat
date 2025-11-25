@@ -2184,7 +2184,7 @@
     "description": "Kimi K2 Instruct, the official Kimi inference model supporting long context, code, Q&A, and more."
   },
   "kimi-k2-thinking": {
-    "description": "K2 Long Thinking Model supports 256k context, multi-step tool usage, and deep reasoning, excelling at solving complex problems."
+    "description": "The kimi-k2-thinking model, developed by Moonshot AI, is a general-purpose agentic and reasoning model. It excels at deep reasoning and can utilize multi-step tool calls to help solve a wide range of complex problems."
   },
   "kimi-k2-thinking-turbo": {
     "description": "The high-speed version of the K2 Long Thinking Model supports 256k context and deep reasoning, with output speeds of 60–100 tokens per second."

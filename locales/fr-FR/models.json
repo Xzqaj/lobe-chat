@@ -2184,7 +2184,7 @@
     "description": "Kimi K2 Instruct, modèle d'inférence officiel de Kimi, prenant en charge le long contexte, le code, les questions-réponses et d'autres scénarios."
   },
   "kimi-k2-thinking": {
-    "description": "Le modèle de raisonnement long K2 prend en charge un contexte de 256k, les appels d’outils multi-étapes et le raisonnement, idéal pour résoudre des problèmes complexes."
+    "description": "Le modèle kimi-k2-thinking, proposé par Moonshot AI, est un modèle de réflexion doté de capacités agentiques générales et de raisonnement. Il excelle dans le raisonnement approfondi et peut utiliser des outils en plusieurs étapes pour aider à résoudre divers problèmes complexes."
   },
   "kimi-k2-thinking-turbo": {
     "description": "Version rapide du modèle de raisonnement long K2, avec un contexte de 256k, spécialisé dans le raisonnement profond et une vitesse de sortie de 60 à 100 tokens par seconde."

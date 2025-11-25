@@ -2184,7 +2184,7 @@
     "description": "Kimi K2 Instruct, Kimi 공식 추론 모델로, 장기 컨텍스트, 코드, 질의응답 등 다양한 시나리오를 지원합니다."
   },
   "kimi-k2-thinking": {
-    "description": "K2 장기 사고 모델은 256k 문맥을 지원하며, 다단계 도구 호출과 사고를 통해 복잡한 문제 해결에 능숙합니다."
+    "description": "kimi-k2-thinking 모델은 Moonshot에서 제공하는 범용 에이전트 능력과 추론 능력을 갖춘 사고 모델로, 심층 추론에 능하며 다단계 도구 호출을 통해 다양한 문제 해결을 지원합니다."
   },
   "kimi-k2-thinking-turbo": {
     "description": "K2 장기 사고 모델의 고속 버전으로, 256k 문맥을 지원하며, 심층 추론에 능하고 초당 60~100 토큰의 출력 속도를 자랑합니다."

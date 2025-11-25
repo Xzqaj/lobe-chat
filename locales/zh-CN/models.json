@@ -2184,7 +2184,7 @@
     "description": "Kimi K2 Instruct，Kimi 官方推理模型，支持长上下文与代码、问答等多场景。"
   },
   "kimi-k2-thinking": {
-    "description": "K2 长思考模型，支持 256k 上下文，支持多步工具调用与思考，擅长解决更复杂的问题。"
+    "description": "kimi-k2-thinking模型是月之暗面提供的具有通用 Agentic能力和推理能力的思考模型，它擅长深度推理，并可通过多步工具调用，帮助解决各类难题。"
   },
   "kimi-k2-thinking-turbo": {
     "description": "K2 长思考模型的高速版本，支持 256k 上下文，擅长深度推理，输出速度提升至每秒 60-100 tokens 。"

@@ -2184,7 +2184,7 @@
     "description": "Kimi K2 Instruct, Kimi'nin resmi çıkarım modeli, uzun bağlam, kodlama, soru-cevap gibi çoklu senaryoları destekler."
   },
   "kimi-k2-thinking": {
-    "description": "K2 Uzun Düşünme Modeli, 256k bağlamı destekler; çok adımlı araç çağırma ve düşünme yeteneğine sahiptir, daha karmaşık problemleri çözmede uzmandır."
+    "description": "kimi-k2-thinking modeli, Moonshot tarafından sunulan, genel ajan yeteneklerine ve akıl yürütme becerilerine sahip bir düşünme modelidir. Derinlemesine akıl yürütmede uzmandır ve çok adımlı araç kullanımıyla çeşitli zorlukların üstesinden gelmeye yardımcı olur."
   },
   "kimi-k2-thinking-turbo": {
     "description": "K2 Uzun Düşünme Modeli’nin yüksek hızlı sürümüdür; 256k bağlamı destekler, derin akıl yürütmede uzmandır ve saniyede 60-100 token üretim hızına ulaşır."
