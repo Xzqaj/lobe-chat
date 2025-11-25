@@ -737,6 +737,9 @@
   "anthropic/claude-opus-4.1": {
     "description": "Opus 4.1 to zaawansowany model firmy Anthropic, zoptymalizowany pod kątem programowania, złożonego wnioskowania i długotrwałych zadań."
   },
+  "anthropic/claude-opus-4.5": {
+    "description": "Claude Opus 4.5 to flagowy model firmy Anthropic, łączący wyjątkową inteligencję z możliwością skalowania, idealny do złożonych zadań wymagających najwyższej jakości odpowiedzi i zdolności rozumowania."
+  },
   "anthropic/claude-sonnet-4": {
     "description": "Claude Sonnet 4 to hybrydowy model wnioskowania firmy Anthropic, łączący zdolności myślenia i działania bez myślenia."
   },
@@ -826,6 +829,9 @@
   },
   "claude-opus-4-20250514": {
     "description": "Claude Opus 4 to najpotężniejszy model Anthropic, zaprojektowany do obsługi wysoce złożonych zadań. Wyróżnia się doskonałymi osiągami, inteligencją, płynnością i zdolnością rozumienia."
+  },
+  "claude-opus-4-5-20251101": {
+    "description": "Claude Opus 4.5 to flagowy model firmy Anthropic, łączący wyjątkową inteligencję z możliwością skalowania, idealny do złożonych zadań wymagających najwyższej jakości odpowiedzi i zdolności rozumowania."
   },
   "claude-sonnet-4-20250514": {
     "description": "Claude Sonnet 4 może generować niemal natychmiastowe odpowiedzi lub wydłużone, stopniowe rozważania, które użytkownik może wyraźnie obserwować."
@@ -2184,7 +2190,7 @@
     "description": "Kimi K2 Instruct, oficjalny model wnioskowania Kimi, wspierający długi kontekst, kodowanie, pytania i inne scenariusze."
   },
   "kimi-k2-thinking": {
-    "description": "Model długiego myślenia K2, obsługuje kontekst 256k, wieloetapowe wywoływanie narzędzi i myślenie, doskonały w rozwiązywaniu złożonych problemów."
+    "description": "Model kimi-k2-thinking, opracowany przez Moonshot AI, to uniwersalny model myślenia z agentowymi zdolnościami i umiejętnością rozumowania. Doskonale radzi sobie z głębokim rozumowaniem i potrafi korzystać z narzędzi w wielu krokach, pomagając rozwiązywać różnorodne trudne problemy."
   },
   "kimi-k2-thinking-turbo": {
     "description": "Szybka wersja modelu długiego myślenia K2, obsługuje kontekst 256k, specjalizuje się w głębokim wnioskowaniu, z prędkością generowania 60–100 tokenów na sekundę."
@@ -3457,6 +3463,9 @@
   },
   "us.anthropic.claude-haiku-4-5-20251001-v1:0": {
     "description": "Claude Haiku 4.5 to najszybszy i najbardziej inteligentny model Haiku firmy Anthropic, oferujący błyskawiczne działanie i zaawansowane możliwości rozumowania."
+  },
+  "us.anthropic.claude-opus-4-5-20251101-v1:0": {
+    "description": "Claude Opus 4.5 to flagowy model firmy Anthropic, łączący wyjątkową inteligencję z możliwością skalowania, idealny do złożonych zadań wymagających najwyższej jakości odpowiedzi i zdolności rozumowania."
   },
   "us.anthropic.claude-sonnet-4-5-20250929-v1:0": {
     "description": "Claude Sonnet 4.5 to jak dotąd najbardziej zaawansowany model stworzony przez firmę Anthropic."
