@@ -2536,6 +2536,9 @@ importers:
 
   packages/types:
     dependencies:
+      '@lobechat/const':
+        specifier: workspace:*
+        version: link:../const
       '@lobechat/python-interpreter':
         specifier: workspace:*
         version: link:../python-interpreter
